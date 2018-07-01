@@ -1,1 +1,135 @@
 
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <!-- meta charset="utf-8" serve para indicar o idioma da página-->
+    <meta charset="utf-8">
+    <img src="https://localhostcodigobase1php.files.wordpress.com/2018/06/base-sem-nomes.png" alt="base sem nomes.png" width="1279" height="165" class="alignnone size-full wp-image-115"/>
+    <meta charset="UTF-8">
+    <title>Home - Matcon Silva Materias de Construção </title>
+    
+    <!-- CSS da página-->
+	<style>
+        body { 
+            width: 960px;
+            background-color: white;
+            
+        }
+        
+        main {
+            width: 100%;
+        }
+        
+        nav {
+            text-decoration: none;
+        }
+
+        .menu a {
+            text-decoration: none;
+            display: block;
+            padding: 0px;
+            color:#4682B4 ;
+            font-family: sans-serif;
+            font-size: 14px;
+            text-transform: uppercase;
+            font-weight: 800;
+            margin-left: 50px
+        }
+        
+        li {
+            list-style:none;
+            position: relative;
+            top:-62px;
+            left: 590px;
+            float: left;
+        }
+        
+        li :hover {
+            color: coral;
+
+        }
+        
+        .apoio {
+            float: left;
+            width: 25%;
+            margin-left: -500px;
+            margin-top: 50px
+           
+        }
+        
+        .apoio img {
+            width: 120px;
+            height: 102px
+        }
+        
+        .principal {
+            float: right;
+            width:75%;
+            height: 500px;
+            margin-left: -500px;
+            margin-top: 50px
+        }
+        
+        
+        footer {
+            width: 100%;
+            align-items: center
+        }
+        
+    </style>
+</head>
+
+<body>
+    <main>
+        <div id="page" class="hfeed site">
+            <header>
+
+                <!-- MENU - NAV é a melhor tag para identificar o menu-->
+                <nav class="menu-container">
+                    <ul class="menu clearfix">
+                        <li><a href="!">Produtos</a></li>
+                        <li><a href="!"> Sobre</a></li>
+                        <li><a href="!">Parceiro</a></li>
+                        <li><a href="!">contatos</a></li>
+                    </ul>                       
+                </nav>
+            </header>
+
+            <div class="apoio">
+                <img class="alignnone size-full wp-image-118" src="https://localhostcodigobase1php.files.wordpress.com/2018/06/contato.png" alt="contato" width="132" height="114" /> 
+
+                <img class="alignnone size-full wp-image-119" src="https://localhostcodigobase1php.files.wordpress.com/2018/06/nossa-historia.png" alt="nossa historia" width="134" height="114" />
+
+                <img class="alignnone size-full wp-image-120" src="https://localhostcodigobase1php.files.wordpress.com/2018/06/produtos.png" alt="produtos" width="132" height="114" />
+            </div>
+  
+            <div class="principal">
+                <h3>AQUI VOCE ENCONTRA TUDO PARA MATERIAIS DE CONSTRUÇÃO</h3>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><strong>Para realizar a sua construção é necessário garantir materiais básicos de qualidade, para garantir versatilidade e eficácia nas suas reformas. 
+O primeiro passo para que sua casa saia do jeito que você sempre imaginou é se cercar dos melhores produtos, em todas as fases da obra. Por isso, o departamento de Materiais de Construção Silva Matcon se preocupa em oferecer os melhores produtos de diferentes materiais e tecnologias, para cada setor da sua reforma ou construção, oferecendo materiais desde o levantar, revestimento e cobertura da estrutura, passando por materiais hidráulicos para armazenamento, captação e tratamento de água, indo até acessórios e itens para construção da decoração do ambiente.</strong></p>
+ <img class="alignnone size-full wp-image-117" src="https://localhostcodigobase1php.files.wordpress.com/2018/06/caixa.jpg" alt="caixa" width="977" height="368" display inline block/>
+<br>
+     
+       </div>
+        </div>
+        <br>
+  
+        <!-- Footer é o rodapé da página-->
+        <footer>
+<br>
+ 
+         <img class="alignnone size-full wp-image-116" src="https://localhostcodigobase1php.files.wordpress.com/2018/06/base-laranja.png" alt="base laranja" width="1279" height="240" />
+        </footer>
+    </main>
+
+</body>
+</html>
+
+
+
+
+
+
+
